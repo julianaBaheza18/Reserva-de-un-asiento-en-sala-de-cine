@@ -1,1 +1,0 @@
-# Reserva-de-un-asiento-en-sala-de-cine
